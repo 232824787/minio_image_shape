@@ -1,0 +1,1 @@
+# minio_image_shape
